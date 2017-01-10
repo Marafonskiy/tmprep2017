@@ -1,4 +1,3 @@
 good tedt
-bad test
 new changes
 
