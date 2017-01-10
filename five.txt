@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 good tedt
-=======
 bad test
 new changes
->>>>>>> test
+
